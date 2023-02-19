@@ -98,7 +98,7 @@ This is how we are going to prepare for the Data Analyst profile:
 
 ### Join the WhatsApp Group Here: https://chat.whatsapp.com/J0CjC1tNsPpAk0S7OZDtbp
 
-
+<br><br>
 
 **Python🐍 Machine Learning🤖 Data Science🥼 Data Engineering🧑‍💻 Computer Vision🖥️ NLP🤍 Business Problems🚀**
 
