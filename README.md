@@ -1,6 +1,8 @@
 # Data-Analyst-Roadmap
 Data-Analyst-Roadmap for Students and Professionals
 
+![](https://github.com/hemansnation/Data-Analyst-Roadmap/blob/main/images/data-analyst-roadmap-1.png)
+
 This is how we are going to prepare for the Data Analyst profile:
 
 1 - Python Programming 
