@@ -1,7 +1,13 @@
 # Data-Analyst-Roadmap
 Data-Analyst-Roadmap for Students and Professionals
 
-This is how we are going to prepare for the Data Analyst profile:
+![](https://github.com/hemansnation/Data-Analyst-Roadmap/blob/main/images/data-analyst-roadmap-1.png)
+
+
+# [Notion Template Detailed Roadmap Here](https://god-level-python.notion.site/Data-Analyst-Roadmap-ec381aac7a9944e2a529e281c0d2aaf8)
+<br><br>
+
+### This is how we are going to prepare for the Data Analyst profile:
 
 1 - Python Programming 
 
